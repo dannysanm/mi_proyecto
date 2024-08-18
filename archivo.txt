@@ -3,4 +3,4 @@ Aqui esta mi segunda línea del proyecto
 Cambios para identificar a la nueva rama
 Añadiendo una nueva línea local para subir
 Nueva edicion en el area local
-Esta línea esta escrita directamente en GitHub 2
+Esta línea esta escrita directamente en GitHub
